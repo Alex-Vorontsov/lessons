@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "firebase": "^9.11.0",
-    "swiper": "^8.4.3"
-  }
-}
