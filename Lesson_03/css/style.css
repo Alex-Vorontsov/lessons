@@ -1,0 +1,54 @@
+/*Cкидання стилів*/
+@import url("reset.css");
+/*практика з селекторами */
+* {
+    /* color: red; */
+}
+p {
+    /* color: red; */
+}
+.kitchen-text h3 {
+    /* color: red;*/
+}
+#kitchen {
+    /* color: red;*/
+}
+[class*="tex"] {
+    /*color: rgb(240, 240, 240); */
+}
+
+/*Основні стилі*/
+
+h1 {
+    color: blue;
+}
+h2 {
+    color: aqua;
+}
+h3 {
+    color: chocolate;
+}
+
+.slava-ukraini h2 {
+    color: blue;
+}
+.slava-ukraini h3 {
+    color: yellow;
+}
+.link .culture {
+    color: teal;
+}
+
+.link .hystory,
+.kitchen {
+    color: green;
+}
+.travel {
+    color: brown;
+}
+.kitchen-text {
+    color: brown;
+}
+.travel-text * {
+    color: blue;
+}
