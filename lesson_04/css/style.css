@@ -37,7 +37,7 @@
 .blok-test p {
     color: #556070;
     font-size: 18px;
-    font-style: nitalic;
+    font-style: italic;
     font-weight: 300;
     line-height: 133%;
     text-align: right;
@@ -69,7 +69,7 @@
 .blok-test2 p {
     color: #556070;
     font-size: 18px;
-    font-style: nitalic;
+    font-style: italic;
     font-weight: 300;
     line-height: 133%;
     text-align: justify;
