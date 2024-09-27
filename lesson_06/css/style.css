@@ -106,7 +106,7 @@
     height: 400px;
 }
 .home-work {
-    width: 1920px;
+    width: auto;
     background: #141414;
     height: auto;
     margin-bottom: 150px;
@@ -146,7 +146,6 @@ line-height: 150%;
 margin-bottom: 50px;
 }
 .button {
-    
     color: #FFF;
 font-family: Manrope;
 font-size: 18px;
